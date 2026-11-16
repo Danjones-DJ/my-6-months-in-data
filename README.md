@@ -17,27 +17,28 @@ The final visualisation will combine the 6 months of daily observations into one
 
 ## Daily Measures
 
-Each day I will record **14 measures**:
+Each day I will record the following measures:
 
 | # | Measure | Type |
 |---|---|---|
 | 1 | How happy I felt | 0–10 |
-| 2 | Time I got out of bed | Time |
-| 3 | Time I put my phone away | Time |
-| 4 | Number of people I spoke to | Count |
-| 5 | Whether I did coaching | Yes/No |
-| 6 | Whether I did university work | Yes/No |
-| 7 | Where I spent most of the day | Category |
-| 8 | Number of coffees | Count |
-| 9 | Whether I cried | Yes/No |
-| 10 | Whether I was ill | Yes/No |
-| 11 | Whether the day felt good, and why | Qualitative |
-| 12 | Top 3 artists of the day | Ranked |
-| 13 | Top 3 songs of the day | Ranked |
-| 14 | Whether I left the house | Yes/No |
-| 15 | Whether I went on a walk | Yes/No |
-
-> **Note:** The project currently contains 15 measures despite the original description referring to 14.
+| 2 | Things I was grateful for | Qualitative |
+| 3 | Time I got out of bed | Time |
+| 4 | Time I put my phone away | Time |
+| 5 | Number of people I spoke to | Category |
+| 6 | Whether I did coaching | Yes/No |
+| 7 | Whether I did university work | Yes/No |
+| 8 | Where I spent most of the day | Category |
+| 9 | Number of coffees | Count |
+| 10 | Whether I cried | Yes/No |
+| 11 | Whether I was ill | Yes/No |
+| 12 | Whether the day felt good | Yes/No |
+| 13 | Why the day felt good, or why it did not | Qualitative |
+| 14 | Top 3 artists of the day | Ranked |
+| 15 | Top 3 songs of the day | Ranked |
+| 16 | Whether I left the house | Yes/No |
+| 17 | Whether I went on a walk | Yes/No |
+| 18 | Whether I think I got at least 1% better | Yes/No |
 
 ## Data Collection
 

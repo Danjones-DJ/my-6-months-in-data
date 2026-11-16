@@ -4,7 +4,7 @@ A personal data visualisation project where, for six months, I will collect dail
 
 Inspired by personal data projects shared on [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/), the aim is to turn six months of everyday experiences into a single data-driven story.
 
-The data can be found on this publicly viewable Google Sheet, with my R code and poster UI visible within the R and Output folders of this repository.
+The data can be found on this publicly viewable Google Sheet [https://docs.google.com/spreadsheets/d/1TlGUFFiFzKQdvGUBoW0lOn6G6Zs7lUzghnvx7nDMHPQ/edit?usp=sharing], with my R code and poster UI visible within the R and Output folders of this repository.
 ## Project
 
 **Start date:** 16 November 2026  
